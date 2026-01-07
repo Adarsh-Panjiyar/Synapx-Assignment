@@ -23,7 +23,6 @@ Claims are routed based on the following priority:
 2. Investigation Flag – Fraud-related keywords in description
 3. Specialist Queue – Injury-related claims
 4. Fast-track – Estimated damage below 25,000
-5. Standard Review – Default case
 
 ---
 
